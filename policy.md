@@ -47,11 +47,11 @@ We do not share your personal information with third parties.
 
 For legal purposes: We may disclose information to comply with legal obligations, respond to lawful requests, or protect our rights, privacy, safety, or property.
 
-# Data Security
+# Data Security
 
 We take reasonable measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure.
 
-# Your Rights
+# Your Rights
 
 You have the right to access, correct, or delete the personal information we hold about you. If you wish to exercise these rights, please contact us at barais@irisa.fr.
 
