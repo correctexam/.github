@@ -9,7 +9,8 @@ Welcome to CorrectExam ("we," "our," or "us"). This Privacy Policy outlines how 
 By accessing or using the App, you agree to the terms of this Privacy Policy. If you do not agree with our practices, please do not use the App.
 
 # Information We Collect
-## . Personal Information
+
+## Personal Information
 
 We may collect personal information that you provide directly to us when you register, create an account, or use the App. This may include, but is not limited to:
 
@@ -36,7 +37,9 @@ We may use the information we collect for the following purposes:
 
 
 
-# Consent: By using the App, you consent to the collection and processing of your personal information as described in this Privacy Policy.
+# Consent
+
+By using the App, you consent to the collection and processing of your personal information as described in this Privacy Policy.
 
 # Data Sharing and Disclosure
 
