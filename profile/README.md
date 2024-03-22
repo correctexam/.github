@@ -35,7 +35,7 @@ L'idée est simple.
 6. Le professeur annote son sujet graphiquement pour définir les zones d'intérêt au sein de la copie
 7. Le professeur est assisté pour la reconnaissance des noms sur les copies à l'aide de techniques de machine learning
 8. Le professeur corrige ses copies en vertical (étudiant par étudiant) ou en horizontal (copie par copie). Il consulte les statistiques, récupère en sortie en excel prêt être fourni à la scolarité
-9. Chaque étudiant peut facilement consulté sa copie, voir les réponses des autres taggés comme excellentes par le professeur pour une question donnée, ...
+9. Chaque étudiant peut facilement consulter sa copie, voir les réponses des autres taggées comme excellentes par le professeur pour une question donnée, ...
 
 
 
